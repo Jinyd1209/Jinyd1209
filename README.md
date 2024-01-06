@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 
-- :orange_book: Focusing on Python
+- :orange_book: Focusing on python and cpp
 - :hammer: Learner of deep learning 
 - :hospital: Medical image processing
 - :meat_on_bone: Meat lover
